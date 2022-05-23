@@ -7,3 +7,6 @@
 That's how the starting page looks like.
 
 ![F74B7EC7-517C-4920-8096-EE42D6997FEC](https://user-images.githubusercontent.com/78737964/169881672-b2cb9d4d-2277-4626-b227-8fa79e7c7036.jpeg)
+
+That's how daily goals and plans work.
+We have here update, add and delete plans.
