@@ -2,6 +2,9 @@
 # Final-Project
 
 ![DC0DAC1B-4396-4698-9CD2-A6301070BCCD](https://user-images.githubusercontent.com/78737964/169881667-38b957ec-01b7-4abd-8246-42f0e410dd33.png)
+
+And that's what happens in terminal:)
+
 ![58F1D17B-0E53-45B1-AA00-9A76D44B25F3](https://user-images.githubusercontent.com/78737964/169881671-9d0b8000-90cd-42f3-8dc3-ba26e37d74c3.jpeg) 
 
 That's how the starting page looks like.
